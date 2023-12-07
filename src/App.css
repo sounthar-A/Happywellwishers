@@ -1,0 +1,178 @@
+*
+{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+.firstimage
+{
+  width:100%;
+  background-color:rgb(195,190,189);
+  height:90px;
+  color:white;
+  
+} 
+
+.menuimage
+{
+  width:20%;
+  height:90px;
+  float:left;
+  margin-left:80px;
+}
+container
+{
+  background-color: white;
+}
+.menu
+{
+  width:100%;
+  height:100px;
+  text-align:right;
+  /* margin-top:70px; */
+}
+ul li
+{
+display:inline-block;
+padding: 34px;
+}
+.image
+{
+  width:100%;
+  height:500px;
+}
+.content
+{
+  height: 600px;
+  width:100%;
+  background-color: black;
+  /* margin-left:160px; */
+  padding-top:60px;
+}
+.about
+{
+  width:60%;
+  height:500px;
+  background-color:white;
+  margin-left:80px;
+  float:left;
+  color: black;
+  padding:120px 300px 0px 80px;
+}
+.banner
+{
+  width:37%;
+  height:400px;
+ position:absolute;
+ right:90px;
+ top:200px;
+  
+}
+.toptext
+{
+  position:absolute;
+  font-size:75px;
+  color:white;
+  text-align:center;
+  top:220px;
+  left:300px;
+}
+.image
+{
+  opacity:0.9;
+}
+.content1
+{
+  height: 600px;
+  width:100%;
+  background-color: black;
+  /* margin-left:160px; */
+  padding-top:60px;
+  color:white;
+
+}
+
+.image1
+{
+  width:395px;
+  height:470px;
+  /* background-color:green; */
+  float: left;
+  margin-left:78px;
+  /* opacity:1; */
+}
+.part1
+{
+  width:100%;
+  height:240px;
+  background-color:white;
+  
+}
+.content2
+{
+  height: 260px;
+  width:100%;
+  background-color: rgb(244, 246, 247);
+  /* margin-left:160px; */
+  padding-top:60px;
+  color:rgb(247, 247, 247);
+
+}
+.part2
+{
+  width:393px;
+  height:200px;
+  /* background-color:green; */
+  float: left;
+  margin-left:78px;
+  color:black;
+}
+.logoimages
+{
+  width:15%;
+  height:30px;
+}
+.logoimages1
+{
+  width:15%;
+  height:40px;
+}
+.logoimages2
+{
+  width:20%;
+  height:70px;
+}
+.joinbutton
+{
+  height: 43px;
+  width:70px;
+  border:1px solid black;
+}
+label
+{
+  color:black;
+}
+.backgroundimage
+{
+  padding-top:70px;
+  height:400px;
+  background-image: url('form.jpg');
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: cover;
+}
+label
+{
+  color:white;
+}
+.usestateimage
+{
+  width:100%;
+  height:400px;
+}
+.happy
+{
+  background-color: rgb(228, 238, 238);
+}
+
+
